@@ -1,10 +1,10 @@
 package champion.game;
 
 import android.os.Bundle;
+import champion.Game.Main;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
-import champion.game.Main;
 
 public class AndroidLauncher extends AndroidApplication {
 	@Override
